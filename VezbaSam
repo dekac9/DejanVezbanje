@@ -8,7 +8,8 @@
 </head>
 <body>
   <script>
-    document.write("Hello everyone")
+    document.write("Hello everyone");
+    document.write("Hello everyone sa grane")
     </script>
 </body>
 </html>
